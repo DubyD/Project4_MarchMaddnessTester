@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.io.Serializable; 
+//debugged and eddited by Victor Serra
 
 /**
  * Bracket Class
